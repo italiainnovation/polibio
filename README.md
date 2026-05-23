@@ -6,7 +6,7 @@ Polibio.ai is an open template for building a *domain-specific* agentic research
 
 It is not a general assistant. It is scaffolding you fill with your own field's analytical operations, sources, and canon.
 
-*Companion paper (SSRN): forthcoming · Live demo: [terminal.italiainnovation.com](https://terminal.italiainnovation.com) (`demo` / `demo`) · An [Italia Innovation](https://italiainnovation.com) tools & methods release.*
+*Companion paper (SSRN): forthcoming · An [Italia Innovation](https://italiainnovation.com) tools & methods release.*
 
 ---
 
@@ -87,10 +87,9 @@ FRED · Eurostat · OECD · World Bank · BLS · US Census/QCEW/BTOS · ISTAT ·
 
 Everything lands in a local DuckDB **DataPool** whose schema enforces, by design: every observation traces to a logged retrieval; no imputation without a recorded method; raw values are never overwritten; source conflicts are preserved.
 
-## Read · try · cite
+## Read · cite
 
 - **Paper:** *Polibio.ai — Agentic AI for Field Research and Inductive Theory in the Social Sciences* (SSRN, forthcoming).
-- **Live demo:** [terminal.italiainnovation.com](https://terminal.italiainnovation.com) — sign in with `demo` / `demo`.
 - **Cite:** see `CITATION.cff`.
 
 ## License
