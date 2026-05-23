@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Polibio.ai — Agentic AI for Field Research and Inductive Theory in the Social Sciences"
+message: "If you use this software, please cite the companion paper."
+type: software
+authors:
+  - family-names: Mari
+    given-names: Marco
+    affiliation: Italia Innovation
+repository-code: "https://github.com/italiainnovation/polibio"
+license: MIT
+keywords:
+  - agentic AI
+  - Claude Code
+  - field research
+  - inductive theory
+  - social science methods
+  - research infrastructure
+preferred-citation:
+  type: article
+  title: "Polibio.ai — Agentic AI for Field Research and Inductive Theory in the Social Sciences"
+  authors:
+    - family-names: Mari
+      given-names: Marco
+  year: 2026
+  notes: "Italia Innovation — Tools and Methods. SSRN working paper (forthcoming)."

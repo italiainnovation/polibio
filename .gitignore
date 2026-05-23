@@ -1,0 +1,21 @@
+# secrets & local config — never commit
+.env
+*.env
+.mcp.json
+
+# python
+__pycache__/
+*.pyc
+.cache/
+
+# local data, pools, and outputs (bring your own; keep the repo a template)
+data/
+outputs/
+fieldwork/
+*.duckdb
+*.duckdb.wal
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/

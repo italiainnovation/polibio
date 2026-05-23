@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "fred": {
+      "command": "node",
+      "args": ["/absolute/path/to/fred-mcp-server/build/index.js"],
+      "env": { "FRED_API_KEY": "YOUR_FRED_API_KEY" }
+    }
+  }
+}
