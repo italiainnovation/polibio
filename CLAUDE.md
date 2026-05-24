@@ -99,4 +99,4 @@ Every output must satisfy these before it counts:
 - **DataPools:** `tools/datapool/init_pool.py <case>` builds a provenance-tracked DuckDB store.
 
 ---
-*Polibio.ai · an Italia Innovation tools & methods release · template version. Companion paper: SSRN (forthcoming).*
+*Polibio.ai · an Italia Innovation tools & methods release · template version. Companion paper on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823038*

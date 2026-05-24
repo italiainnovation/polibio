@@ -6,7 +6,7 @@ Polibio.ai is an open template for building a *domain-specific* agentic research
 
 It is not a general assistant. It is scaffolding you fill with your own field's analytical operations, sources, and canon.
 
-*Companion paper (SSRN): forthcoming · An [Italia Innovation](https://italiainnovation.com) tools & methods release.*
+*Companion paper: **[read on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823038)** · An [Italia Innovation](https://italiainnovation.com) tools & methods release.*
 
 ---
 
@@ -89,7 +89,7 @@ Everything lands in a local DuckDB **DataPool** whose schema enforces, by design
 
 ## Read · cite
 
-- **Paper:** *Polibio.ai — Agentic AI for Field Research and Inductive Theory in the Social Sciences* (SSRN, forthcoming).
+- **Paper:** *Building Agentic AI for Field Research: An Open Architecture for the Social Sciences* — [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823038).
 - **Cite:** see `CITATION.cff`.
 
 ## License

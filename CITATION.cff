@@ -17,9 +17,10 @@ keywords:
   - research infrastructure
 preferred-citation:
   type: article
-  title: "Polibio.ai — Agentic AI for Field Research and Inductive Theory in the Social Sciences"
+  title: "Building Agentic AI for Field Research: An Open Architecture for the Social Sciences"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823038"
   authors:
     - family-names: Mari
       given-names: Marco
   year: 2026
-  notes: "Italia Innovation — Tools and Methods. SSRN working paper (forthcoming)."
+  notes: "Italia Innovation — Tools and Methods. SSRN working paper."
