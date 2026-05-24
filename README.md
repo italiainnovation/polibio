@@ -94,6 +94,6 @@ Everything lands in a local DuckDB **DataPool** whose schema enforces, by design
 
 ## License
 
-[MIT](LICENSE) (proposed). The data connectors query public APIs; they do not redistribute data. Bring your own API keys.
+[MIT](LICENSE). The data connectors query public APIs; they do not redistribute data. Bring your own API keys.
 
 *An Italia Innovation tools & methods release.*
